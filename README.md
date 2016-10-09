@@ -19,7 +19,8 @@
 	   btn.delegate = self 
 	   
  `UIViewController should observer CircleTransitionButtonDelegate`
- ```class FirstViewController: UIViewController, CircleTransitionButtonDelegate```
+ 
+     class FirstViewController: UIViewController, CircleTransitionButtonDelegate
  
  
 
